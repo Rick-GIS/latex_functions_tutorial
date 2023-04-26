@@ -340,9 +340,7 @@ $$
 ```
 
 $$
-\iiint_{\Omega}F(r,\phi,\theta)r^2\sin\phi\mathrm{d}r\mathrm{d}\phi\mathrm{d}\theta
-=
-\int_{\theta_1}^{\theta_2}\mathrm{d}\theta\int_{\phi_1}^{\phi_2}\mathrm{d}\phi\int_{r_1(\phi,\theta)}^{r_2(\phi,\theta)}F(r,\phi,\theta)r^2\sin\phi\mathrm{d}r
+\iiint_{\Omega}F(r,\phi,\theta)r^2\sin\phi\mathrm{d}r\mathrm{d}\phi\mathrm{d}\theta=\int_{\theta_1}^{\theta_2}\mathrm{d}\theta\int_{\phi_1}^{\phi_2}\mathrm{d}\phi\int_{r_1(\phi,\theta)}^{r_2(\phi,\theta)}F(r,\phi,\theta)r^2\sin\phi\mathrm{d}r
 $$
 
 - 格林公式（仅数学一）
